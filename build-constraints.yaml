@@ -2298,6 +2298,7 @@ packages:
         - planb-token-introspection
         - pointedlist
         - unordered-intmap
+        - wholepixels
         - word-trie
         - xdg-basedir
         - yi-core < 0 # GHC 8.4 build failure
